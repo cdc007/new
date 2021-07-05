@@ -2,4 +2,5 @@
 
 public Class User{
 private String name;
+privte int id; // create by master 
 }
